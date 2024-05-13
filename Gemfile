@@ -33,6 +33,7 @@ gem 'jekyll-toc'
 gem 'jekyll-twitter-plugin'
 gem 'jemoji'
 
+gem 'classifier-reborn'
 
 
 
