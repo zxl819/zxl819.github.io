@@ -35,5 +35,7 @@ gem 'jemoji'
 
 gem 'classifier-reborn'
 
+gem 'jekyll-paginate'
+
 
 
